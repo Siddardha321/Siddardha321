@@ -14,4 +14,5 @@
 
 ## Socials
 - LinkedIn : https://www.linkedin.com/in/addugula-siddardha-52610028a/
+- Email : siddardha021@gmail.com
 
