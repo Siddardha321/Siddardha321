@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Siddardha
 
 - I am recent AI & Data Science graduate from Vel Tech Multitech Engineering College,Chennai.
-- I'm currentl learning and sharpening my skills fundamentals every day - slow,steady and consistent.
+- I'm currently learning and sharpening my fundamentals every day - slow,steady and consistent.
 
 ## Interests
 - Technology Trends
@@ -13,4 +13,5 @@
 - Tools : Git, MySQL, Anaconda, PowerBI
 
 ## Socials
-- LinkedIn : 
+- LinkedIn : https://www.linkedin.com/in/addugula-siddardha-52610028a/
+
