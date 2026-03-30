@@ -14,5 +14,7 @@
 
 ## Socials
 - LinkedIn : https://www.linkedin.com/in/addugula-siddardha-52610028a/
-- Email : siddardha021@gmail.com
+- Email : addugulasiddardha@gmail.com
+- Hackerank: https://www.hackerrank.com/profile/siddardha021
+
 
