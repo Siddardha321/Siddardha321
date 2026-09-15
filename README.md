@@ -10,7 +10,7 @@
 
 ## Tech Stack
 - Analytics and Programming : Python, SQL
-- Tools : Git,GitHub, Dbeaver MySQL,PostgresSQL, PowerBI
+- Tools : Git,GitHub, Dbeaver MySQL,PostgreSQL, PowerBI
 
 ## Socials
 - LinkedIn : https://www.linkedin.com/in/addugula-siddardha-52610028a/
