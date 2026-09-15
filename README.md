@@ -9,8 +9,8 @@
 - Sketching
 
 ## Tech Stack
-- Analytics and Programming : Python (Pandas, NumPy, Scikit learn,Matplotlib), SQL
-- Tools : Git, MySQL, PowerBI
+- Analytics and Programming : Python, SQL
+- Tools : Git,GitHub, Dbeaver MySQL,PostgresSQL, PowerBI
 
 ## Socials
 - LinkedIn : https://www.linkedin.com/in/addugula-siddardha-52610028a/
