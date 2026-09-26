@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Siddardha
 
-- I am a recent AI & Data Science graduate from Vel Tech Multitech Engineering College,Chennai.
+- I am an AI & Data Science graduate from Vel Tech Multitech Engineering College,Chennai.
 - I'm currently learning and sharpening my fundamentals every day - slow,steady and consistent.
 
 ## Interests
